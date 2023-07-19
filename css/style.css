@@ -1,0 +1,87 @@
+h1
+    {
+        color:maroon;
+    }
+
+a
+    {
+        text-decoration: none;
+        font-family: Verdana;
+        padding-right: 40px;
+    }
+
+a:hover
+    {
+        color:darkgoldenrod;
+    }
+
+body
+    {
+        background-color: thistle;
+    }
+
+.logo
+    {
+        width: 20%;
+        height: 50px;
+        background-color:aliceblue;
+        float: left;
+    }
+
+
+
+.header
+    {
+        width: 80%;
+        height: 50px;
+        
+        float: left;
+    }
+
+
+table,tr,td,th
+    {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+
+table
+    {
+        width: 800px;
+    }
+td
+    {
+        padding: 10px;
+    }
+
+tr
+    {
+        background-color: azure;
+    }
+
+th
+    {
+        padding: 5px;
+        background-color: black;
+        color: aliceblue;
+    }
+
+tr:nth-child(even)
+    {
+        background-color: darkgray;
+    }
+
+tr:hover
+    {
+        background-color: yellow;
+    }
+
+
+p
+    {
+        font-family: cursive;
+    }
+
+
+
+
